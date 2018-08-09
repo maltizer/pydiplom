@@ -1,0 +1,5 @@
+*
+!/unshared_vk
+!/unshared_vk/*.py
+!*.py
+!.gitignore
